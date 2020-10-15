@@ -1,0 +1,84 @@
+#cart{
+    width: 8%;
+    margin-left: 8%;
+}
+.btn_mid{
+    padding-left: 80%;
+    padding-right: 80% ;
+}
+.myTopNav{
+    margin-left: 50%;
+}
+.bg-lightBlue{
+    background-color: #F3F7FF;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.header_img{
+    width: 80%;
+}
+.btn-style1{
+    padding-left: 5% ;
+    padding-right: 5%;
+    border: solid 1px #0494D2 ;
+    color: #0494D2;
+}
+.btn-style1:hover{
+    background-color: #0494D2;
+    color: white;
+}
+.btn-style2{
+    padding-left: 5% ;
+    padding-right: 5%;
+    border: solid 1px #0494D2 ;
+    color:white;
+    background-color: #0494D2;
+}
+.btn-style2:hover{
+    background-color: white;
+    color: #0494D2;
+}
+.btn-sm-style1{
+    border: solid 1px #0494D2 ;
+    color: #0494D2;
+}
+.btn-sm-style1:hover{
+    background-color: #0494D2;
+    color: white;
+}
+.btn-sm-style2{
+    border: solid 1px #0494D2 ;
+    color:white;
+    background-color: #0494D2;
+}
+.btn-sm-style2:hover{
+    background-color: white;
+    color: #0494D2;
+}
+.text-my-blue{
+    color: #0494D2;
+}
+.content1{
+    margin-left: 5%;
+}
+.title1{
+    color: #61A8E0;
+}
+.card_img{
+    width: 25%;
+    margin-left: 40%;
+}
+.card{ 
+    border: solid 1px white !important;
+    box-shadow: 19px 21px 80px #2d448014;
+    border-radius: 10px;
+}
+.content2{
+    margin-left: 13%;
+}
+.card-header1{
+    background-color: #0494D2;
+}
+.cardB{
+    border: solid 2px #0494D2 !important;
+}
