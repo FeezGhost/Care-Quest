@@ -81,4 +81,47 @@
 }
 .cardB{
     border: solid 2px #0494D2 !important;
+    margin-right: 1;
+}
+.myMarg{
+    margin-top: 8%;
+    margin-left: 5%;
+}
+section{
+    margin-top: 8%;
+}
+article{
+    margin-top: 8%;
+}
+.features{
+    margin-top: 8%;
+}
+aside{
+    margin-top: 8%;
+}
+.myCenter{
+    margin-left: 38%;
+}
+footer{
+    margin-top: 8%;
+}
+.information1{
+    background-color: #F3F7FF;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.information2{
+    margin-top: 5%;
+    
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.info_icon1{
+    width: 10%;
+}
+.info_icon2{
+    width: 13%;
+}
+.info_icon3{
+    width: 15%;
 }
